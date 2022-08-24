@@ -1,0 +1,2 @@
+s3://cs6350a2/Q2/Tweets.csv
+cs6350a2/Q2/output

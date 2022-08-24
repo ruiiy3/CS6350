@@ -1,0 +1,7 @@
+Evaluation,Value
+Accuracy,0.7009504412763069
+WeightedPrecision,0.6780041036053056
+WeightedRecall,0.7009504412763068
+WeightedFMeasure,0.6729818056323538
+WeightedFalsePositiveRate,0.35890119764638256
+WeightedTruePositiveRate,0.7009504412763068
